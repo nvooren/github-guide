@@ -17,4 +17,9 @@ After that you enter the command "git init" this makes the folder a github folde
 When you have found or created a github project, you click on the green button called "Clone or download" and you copy the provided link.<br />
 You go back to your command prompt and go to your github folder location.<br />
 Run this command "git clone copiedlink"<br />
-This will copy the entire project to your github folder.
+This will copy the entire project to your github folder.<br />
+<br />
+<b>5. What do you do if a project gets updated?</b><br />
+When a project gets updated you open up your command prompt and go to your github folder location by using the command "cd".<br />
+Copy the project linke again and you run the command "git fetch copiedlink"<br />
+Then the project will fetch the new updated files<br />
