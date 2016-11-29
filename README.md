@@ -8,5 +8,7 @@ Go to this link: https://git-scm.com/downloads and download the correct file for
 Open the file and install it<br />
 You can verify if the installation was successfull by opening up your command prompt and type "git".<br />
 <br />
-<b>4. Find a repsitory you like to use or create your own</b>
-<b>4. Find a repsitory you like to use or create your own</b>
+<b>3. Create a github folder</b><br />
+Create a folder you would like to use for your github projects.
+When your folder is created go to your cmd and go to the folder location by using the command "cd" for example "cd C:\Users\xwolfyxNL\Desktop\github"
+<b>4. Find a repsitory you like to use or create your own</b><br />
