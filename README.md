@@ -22,4 +22,5 @@ This will copy the entire project to your github folder.<br />
 <b>5. What do you do if a project gets updated?</b><br />
 When a project gets updated you open up your command prompt and go to your github folder location by using the command "cd".<br />
 Copy the project linke again and you run the command "git fetch copiedlink"<br />
-Then the project will fetch the new updated files<br />
+Then the project will fetch the new updated files super leuk gemaakt hoor groetjes tante hans.<br />
+
